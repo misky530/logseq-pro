@@ -1,0 +1,20 @@
+## Core
+- [[Pod]]
+- [[Deployment]]
+- [[Service]]
+- [[Ingress]]
+- ## Control Plane
+- [[API Server]]
+- [[Scheduler]]
+- [[etcd]]
+- ## Storage
+- [[PV]]
+- [[PVC]]
+- [[StorageClass]]
+- ## Networking
+- [[CNI]]
+- [[NetworkPolicy]]
+- ## Troubleshooting
+- [[CrashLoopBackOff]]
+- [[Evicted]]
+- [[ImagePullBackOff]]
